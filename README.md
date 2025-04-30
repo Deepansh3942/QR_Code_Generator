@@ -9,3 +9,8 @@ This is a simple QR Code Generator built using JavaScript. The project allows us
 - Live preview of the QR code
 - Lightweight and fast performance
 - Runs on a local development server
+
+*FOR CREATING NODE-MODULES*
+
+npm init -y
+npm install express qrcode
